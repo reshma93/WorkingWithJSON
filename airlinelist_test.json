@@ -1,0 +1,80 @@
+{
+  "Mainline": {
+    "Table": {
+      "Header": {
+        "Data": [
+          "MyAirline",
+          "MyIATA",
+          "MyHubs",
+          "MyNotes",
+          "MyHomePage",
+          "MyPlane"
+        ]
+      },
+      "Row": [
+        {
+          "MyAirline": "",
+          "MyIATA": "",
+          "MyHubs": {
+            
+          },
+          "MyNotes": "",
+          "MyHomePage": "",
+          "MyPlane": ""
+        },
+        {
+          "MyAirline": "American Airlines",
+          "MyIATA": "AA",
+          "MyHubs": {	
+            "Hub": [
+              "",
+              "",
+			  "",
+			  "",
+			  "",
+			  "",
+			  "",
+			  ""
+            ]
+          },
+          "MyNotes": "",
+          "MyHomePage": "http://www.aa.com",
+          "MyPlane": "http://cs-server.usc.edu:45678/hw/hw4/American_Airlines_Boeing_777.png"
+        },
+        {
+          "MyAirline": "Delta Air Lines",
+          "MyIATA": "",
+          "MyHubs": {
+            "Hub": [
+              "Atlanta",
+              "Amsterdam",
+              "",
+              "Detroit",
+              "Minneapolis/St Paul",
+              "Cincinnati",
+              "",
+              "New York-LaGuardia",
+              "Paris-Charles de Gaulle",
+              "",
+              "Seattle",
+              "Tokyo-Narita"
+            ]
+          },
+          "MyNotes": "Founded as Huff Daland Dusters; largest airline in the world based on number of passengers served per year.",
+          "MyHomePage": "https://www.delta.com",
+          "MyPlane": "http://cs-server.usc.edu:45678/hw/hw4/Delta_B747.jpg"
+        },
+        {
+          "MyAirline": "",
+          "MyIATA": "",
+          "MyHubs": {
+            "Hub":[]
+          },
+          "MyNotes": "",
+          "MyHomePage": "",
+          "MyPlane": ""
+        }
+      ]
+    }
+  }
+}
